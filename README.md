@@ -1,8 +1,5 @@
 # Projeto de Prática com Flexbox - Cartão de Perfil
 
-![Screenshot do Cartão de Perfil para DESKTOP](./src/images/)
-![Screenshot do Cartão de Perfil para MOBILE](image-4.png)
-
 
 Este repositório contém exercícios práticos para aplicar conceitos de Flexbox em um projeto de cartão de perfil responsivo com HTML e CSS. Desenvolvido como parte do curso **DevQuest**, este projeto visa reforçar o aprendizado de layout flexível e responsivo.
 
