@@ -5,6 +5,7 @@ body {
 
 .container {
     background-color: var(--background-color-fundo);
+    background-image:url(../images/bg-pattern-top.svg);
     height: 100vh;
     display: flex;
     justify-content: center;
