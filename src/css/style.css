@@ -1,0 +1,61 @@
+body {
+    font-family: "Kumbh Sans", serif;
+    font-size: 18px;
+}
+
+.container {
+    background-color: var(--background-color-fundo);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartao-perfil{
+    background-color: var(--background-color-cartao);
+    width: 330px;
+    height: 380px;
+    border-radius: 5%;
+
+}
+
+.dados-pessoais {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.dados-pessoais img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 100%;
+}
+
+.dados-numericos {
+    margin-top: 20px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    gap: 30px;
+    text-align: center;
+}
+
+.dados-pessoais p,
+.dados-numericos .valores .numero {
+    font-weight: 700;
+}
+
+.dados-pessoais span,
+.dados-numericos span {
+    color: var(--text-color);
+    font-weight: 400;
+}
